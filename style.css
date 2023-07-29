@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(115, 184, 109);
+}
+#entete{
+    background-color: antiquewhite;
+    border: 1px solid blue;
+    width: 1300px;
+    height: 80px;
+}
+.text1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-left:  200px;
+    margin-top: -130px;
+}
+#me{
+    background-color: aliceblue;
+    width: 1300px;
+    height: 50px;
+    margin-top:  -17px; ;
+}
+.menu{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-left: 800px;
+}
+#intro{
+    background-image: url(IMG-20230331-WA0025.jpg);
+    width: 450px;
+    height: 400px;
+    border: 1px solide blue;
+}
+#intro2{
+    background-image: url(IMG-20230331-WA0023\ -\ Copie.jpg);
+    width: 450px;
+    height: 400PX;
+    border:1px solid blue ;
+    margin-left: 460px;
+    margin-top: -400px;
+}
+#intro3{
+    background-image: url(IMG-20230331-WA0024\ -\ Copie.jpg);
+    width: 400px;
+    height: 400PX;
+    border:1px solid blue ;
+    margin-left: 930px;
+    margin-top: -400px;
+}
+#kkk{
+    border: 1px solid blue;
+    width: 800px;
+    height: 400px;
+}
+#kkkk{
+    border: 1px solid blue;
+    width: 550px
+    px;
+    height: 400px;
+    margin-left: 820px;
+    margin-top: -400px;
+}
+#kkkk{
+    background-image: url(img2.lnk);
+}
+#footer{
+    border: 2px solid blue;
+    width: 1340px;
+    height: 200px;
+}
+.titre{
+    margin-left: 100px;
+}
+.titre1{
+    margin-left: 350px;
+    margin-top: -185px;
+}
+.titre2{
+    margin-left: 640px;
+    margin-top: -150px;
+}
+.titre3{
+    margin-left: 950px;
+    margin-top: -135px;
+}
